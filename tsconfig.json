@@ -1,16 +1,13 @@
 {
 	"$schema": "https://json.schemastore.org/tsconfig",
 	"compilerOptions": {
-		"target": "esnext",
 		"lib": [
-			"esnext"
+			"es2025"
 		],
+		"rootDir": "./src",
 		"noEmit": true,
-		"module": "esnext",
-		"moduleResolution": "bundler",
 		"resolveJsonModule": true,
 		"allowJs": false,
-		"strict": true,
 		"noFallthroughCasesInSwitch": true,
 		"noImplicitOverride": true,
 		"noImplicitReturns": true,
@@ -18,7 +15,6 @@
 		"noEmitOnError": true,
 		"removeComments": false,
 		"sourceMap": false,
-		"esModuleInterop": true,
 		"forceConsistentCasingInFileNames": true,
 		"verbatimModuleSyntax": true,
 		"skipLibCheck": true
