@@ -1,6 +1,6 @@
 {
 	"name": "@withxat/tsconfig",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"packageManager": "pnpm@12.14.0",
 	"description": "Strict tsconfig.json's for modern projects.",
 	"author": "Xat <i@xat.sh> (https://xat.sh)",
