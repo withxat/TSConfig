@@ -12,6 +12,7 @@
 		"noImplicitOverride": true,
 		"noImplicitReturns": true,
 		"noUnusedLocals": true,
+		"noUncheckedIndexedAccess": true,
 		"noEmitOnError": true,
 		"removeComments": false,
 		"sourceMap": false,
