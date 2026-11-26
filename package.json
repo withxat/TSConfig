@@ -5,6 +5,14 @@
 	"description": "Strict tsconfig.json's for modern projects.",
 	"author": "Xat <i@xat.sh> (https://xat.sh)",
 	"license": "MIT",
+	"homepage": "https://github.com/withxat/TSConfig",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/withxat/TSConfig.git"
+	},
+	"bugs": {
+		"url": "https://github.com/withxat/TSConfig/issues"
+	},
 	"peerDependencies": {
 		"typescript": "^6"
 	},

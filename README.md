@@ -21,3 +21,10 @@ Then add the following to your `tsconfig.json`:
 	"extends": "@withxat/tsconfig"
 }
 ```
+
+## Author
+
+**@withxat/tsconfig** © [Xat](https://github.com/withxat), released under the [MIT](https://github.com/withxat/TSConfig/blob/main/LICENSE) License.<br>
+Authored and maintained by Xat with help from contributors ([list](https://github.com/withxat/TSConfig/graphs/contributors)).
+
+> [Blog](https://xat.sh) · GitHub [@withxat](https://github.com/withxat) · Telegram [@withxat](https://t.me/withxat) · X [@withxat](https://x.com/withxat) · Email [i@xat.sh](mailto:i@xat.sh)
